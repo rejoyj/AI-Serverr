@@ -1,5 +1,0 @@
-flask
-ultralytics
-opencv-python-headless
-numpy
-requests
